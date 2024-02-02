@@ -1,0 +1,12 @@
+-m venv venv
+activate
+
+pip install "package name"
+ like tkinter
+
+
+
+
+
+# libraries
+regex

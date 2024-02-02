@@ -1,0 +1,32 @@
+q1) write a function to find lcm and hcf.
+q2) write a function to display fibbonacci sequence using recurssion.
+q3) program to find factorial of a nukmber.
+q4) write a function to convert decimal to binary number.
+q5) program to convert octal to hexadecimals.
+q6) python program to create a simple calculator.
+
+
+1) to create a decorators to convert the return value of the function to a specified datatype.
+2) write a py program to create a decorators function to measure the execution time of function.
+3) write a py program to create a decorator to measure the memory usage of a function.
+4) write a py program to create to create a decorators that locks the argument and return the value of the function.
+
+
+   31-1-24
+1) reverse the word using the python program
+2) write the program to print all the number from 0 t0 6, but not print 3 and 6
+3) write a python program to get the fibbonacci series between number 0 to 75
+4) write a program to print the table of the given using operators 
+5) write a python program to find the sum of all number in a list
+6) write th program to access the function inside a function
+7) write a python code from email url and password validation
+
+
+ 
+ 1-2-24
+Generator 
+1)write  a python program that create a genrator function that yields cube of number 1 to n
+
+2) write a python program to implement a generator that generates random numbers within a given range
+3) write a python program that create a generator function that generates all prime numbers between to given numbers
+4) write a python program to implement generator function that generates fibbonacci series
